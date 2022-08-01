@@ -1,7 +1,7 @@
 ###   Hi, i'm Luiz André!
 
-- 🚧🎮 I’m currently working on browser game called Ordo Salutis. It's a personal project.
-- 📃✏️ I'm currently creating the Game Design Document.
+- 🚧🎮 I’m currently working on social networking called Fanciful. It's a personal project.
+- 📃✏️ I'm currently creating the Fanciful UI and Front-end.
 - 📚💻 I’m currently learning Python, Javascript, HTML and CSS.
 #
 <div align="right">
